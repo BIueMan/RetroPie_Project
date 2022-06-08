@@ -1,7 +1,7 @@
 # RetroPie_Project
 Plan and build one of the tiniest RetroPie, with homemade Audio Amplifier.
 
-The project is a clasic RetroPie, on the raspberry-zero. with a screen and battery, and a homemade filter for the audio, that come from the device.
+The project is a clasic RetroPie, on the raspberry-zero. that come with a screen and battery, in order to be a mobile device. and with a homemade filter for the audio, that come from the device.
 into an audio jack.
 
 ![](https://github.com/BIueMan/RetroPie_Project/blob/main/images/IMG_20220525_140638.jpg)
